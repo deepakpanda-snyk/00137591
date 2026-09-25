@@ -29,12 +29,12 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <version>3.1.4</version>
+            <version>3.5.16</version>
         </dependency>
         <dependency>
             <groupId>com.newrelic.agent.java</groupId>
             <artifactId>newrelic-agent</artifactId>
-            <version>8.11.0</version>
+            <version>9.4.0</version>
         </dependency>
     </dependencies>
 </project>
